@@ -1,0 +1,6 @@
+n_list = [11, 22, 33, 44, 55, 66]
+print(n_list)
+
+print(len(n_list)) # list의 요소의 개수를 구하는 function
+print(n_list[0]) # list의 첫 번째 항목의 index는 0이다.
+print(n_list[1]) # list의 두 번째 항목의 index는 1이다.
