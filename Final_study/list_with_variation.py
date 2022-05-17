@@ -6,6 +6,6 @@ print(list3)
 list4 = list(range(1, 10)) # range()함수로부터 list 생성
 print(list4)
 
-list5 = list('ABCDEF') # 문자열로부터 list 생성ㄴ
+list5 = list('ABCDEF') # 문자열로부터 list 생성
 print(list5)
 
