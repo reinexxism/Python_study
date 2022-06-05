@@ -1,0 +1,8 @@
+f = open('we_will_rock.txt', 'w')
+f.write('Buddy, you\'re a boy, make a big noise\n')
+f.write('Playing in the street, gonna be  big man someday\n')
+f.write('You got mud on your face, you big disgrace\n')
+f.write('Kincking your can all over the place, singin\'\n')
+f.write('We will, we will rock you\n')
+f.write('We will, we will rock you\n')
+f.close()

@@ -1,1 +1,2 @@
-colors2 = tuple(colors)
+except IOError :
+#   print('Could not read file : ', file)
