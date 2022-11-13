@@ -15,4 +15,4 @@ if 9 <= now.month <= 11 :
 
 # Condition4
 if 12 <= now.month <= 2 :
-  prinf("이번 달은 {}월로 겨울입니다.".format(now.month))
+  print("이번 달은 {}월로 겨울입니다.".format(now.month))
